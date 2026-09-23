@@ -1,0 +1,88 @@
+10
+ Thrainn  gg
+10
+      cod1  7    
+      cod2  6    
+      cod3  10   
+      cod4  3    
+      cod5  8    
+      cod6  2    
+       cod  9    
+      cod7  10   
+      cod8  1    
+      cod9  8    
+
+Riff  gg1
+10
+  fortnite  3    
+ fortnite2  4    
+ fortnite3  5    
+ fortnite4  6    
+ fortnite5  7    
+ fortnite6  3    
+ fortnite7  3    
+ fortnite8  3    
+ fortnite9  5    
+fortnite10  6    
+
+Joel  gg2
+9
+     mario  6    
+    mario2  8    
+    mario3  5    
+    mario4  6    
+    mario5  5    
+    mario6  10   
+    mario7  2    
+    mario8  4    
+    mario9  10   
+
+Max  gg3
+5
+ minecraft  8    
+minecraft2  6    
+minecraft3  5    
+minecraft4  3    
+minecraft5  7    
+
+Adam  gg4
+6
+  scrabble  2    
+ scrabble2  5    
+ scrabble3  5    
+ scrabble4  6    
+ scrabble5  10   
+ scrabble6  9    
+
+Jakob  gg5
+5
+       cod  8    
+ minecraft  6    
+     mario  4    
+  fortnite  2    
+  scrabble  7    
+
+Anna  gg6
+3
+fiamedknuff  4    
+  solitare  6    
+ spiderman  10   
+
+Elin  gg7
+3
+ finsisjon  6    
+      risk  8    
+      azul  6    
+
+Mange  gg8
+3
+    scythe  6    
+  wingspan  8    
+battleship  8    
+
+Simon  gg9
+3
+   wonders  2    
+     crash  8    
+      fifa  8    
+
